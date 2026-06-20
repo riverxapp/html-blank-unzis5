@@ -1,6 +1,6 @@
 # HTML Blank Source
 
-This repo is intentionally minimal.
+This repo is intentionally minimal. From myself
 
 ## Purpose
 
